@@ -4,7 +4,7 @@ Hi 👋 My name is Robert S. Menezes
 Front-End Developer
 -------------------
 
-I've been learning to code for 6 years...
+I've been learning to code since 2013...
 
 * 🌍  I'm based in Itapevi - SP
 * 🖥️  See my portfolio at [Robert S.](http://www.robertmenezes.com.br/)
